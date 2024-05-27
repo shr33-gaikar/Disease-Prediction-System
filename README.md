@@ -18,7 +18,7 @@ To run this application locally, follow these steps:
 1. Clone this repository to your local machine:
 
     ```
-    git clone https://github.com/your-username/disease-prediction-system.git
+    git clone https://github.com/shr33-gaikar/disease-prediction-system.git
     ```
 
 2. Navigate to the project directory:
