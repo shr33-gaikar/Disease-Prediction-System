@@ -51,7 +51,7 @@ To run this application locally, follow these steps:
 
 ## Credits 🏆
 
-This project was developed by [Your Name].
+This project was developed by Shrikar Gaikar.
 
 ## License 📜
 
