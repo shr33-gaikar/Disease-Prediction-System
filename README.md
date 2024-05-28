@@ -55,5 +55,5 @@ This project was developed by Shrikar Gaikar.
 
 ## License 📜
 
-This project is licensed under the [MIT License](LICENSE).
+
 
