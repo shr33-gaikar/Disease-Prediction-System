@@ -1,4 +1,4 @@
-# Disease Prediction System
+# PrediCare - Multiple Disease Prediction System
 
 ## Overview 🩺
 
